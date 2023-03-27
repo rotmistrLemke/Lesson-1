@@ -1,0 +1,15 @@
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\bin\Debug\net8.0\Sem1Task00.exe
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\bin\Debug\net8.0\Sem1Task00.deps.json
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\bin\Debug\net8.0\Sem1Task00.runtimeconfig.json
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\bin\Debug\net8.0\Sem1Task00.dll
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\bin\Debug\net8.0\Sem1Task00.pdb
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.csproj.AssemblyReference.cache
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.AssemblyInfoInputs.cache
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.AssemblyInfo.cs
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.csproj.CoreCompileInputs.cache
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.dll
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\refint\Sem1Task00.dll
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.pdb
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\Sem1Task00.genruntimeconfig.cache
+F:\GitRepositories\MirolyubovPA\MirolyubovPA\Sem1Task00\obj\Debug\net8.0\ref\Sem1Task00.dll
