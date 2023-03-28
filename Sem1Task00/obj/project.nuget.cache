@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2yQgPgbpS87HUuNGzLJy+OahjOpXEeJv+DZKCdK2A0mcL3SbEw8pkvGO31Bg41qejdFO55qhaEevay5UfmPY6Q==",
+  "dgSpecHash": "/a1LqADqole3tW8+ggeI4x2fWOCZloW7pv/fL+8ng8gl0P4qiVj3vMVYo73oAiSq8lTo3iCaHOiqiUDQ4X4RXA==",
   "success": true,
   "projectFilePath": "F:\\GitRepositories\\MirolyubovPA\\MirolyubovPA\\Sem1Task00\\Sem1Task00.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\paha4\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\paha4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\paha4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\paha4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
