@@ -21,5 +21,5 @@ char[] digits = numSintezator.Next(10, 100).ToString().ToCharArray();
 Console.WriteLine(digits);
 firstNum = (digits[0]) - 48;
 secondNum = (digits[1]) - 48;
-int res = (firstNum > secondNum)? firstNum: secondNum;
+int res = (firstNum > secondNum) ? firstNum : secondNum;
 Console.WriteLine(res);
