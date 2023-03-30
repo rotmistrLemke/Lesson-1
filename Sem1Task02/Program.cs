@@ -1,5 +1,5 @@
 ﻿//Вводим числа для проверки
-int firstNum = int.Parse(Console.ReadLine("Введите первое число для равнения") ?? "0");
+int firstNum = int.Parse(Console.ReadLine() ?? "0");
 int secondNum = int.Parse(Console.ReadLine() ?? "0");
 
 //Проверям на максимальное
