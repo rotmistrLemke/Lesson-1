@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Sem1Task00/bin/Debug/net8.0/Sem1Task00.dll",
+            "program": "${workspaceFolder}/Sem3Task19HW/bin/Debug/net8.0/Sem3Task19HW.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Sem1Task00",
+            "cwd": "${workspaceFolder}/Sem3Task19HW",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
