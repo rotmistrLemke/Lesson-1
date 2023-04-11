@@ -37,7 +37,7 @@ void SerchElementInArr(int element,int[] arr)
     {
         if (arr[i] == element)
         {
-           //pos = i-1;
+           pos = i-1;
             Console.WriteLine("элемент  найден");
         }
 
