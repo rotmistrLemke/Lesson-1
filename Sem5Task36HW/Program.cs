@@ -76,7 +76,9 @@ int[] CountingSort(int[] array)
 //метод подсчета пар
 void SearchPair(int[] arr)
 {
+    //соритруем
     CountingSort(arr);
+    //сравниваем соседние
     for (int i = 1; i < arr.Length; i++)
     {
         if (arr[i - 1] == arr[i])
@@ -88,7 +90,7 @@ void SearchPair(int[] arr)
 // генерируем массив
 int[] arr = Gen1DArr(10, 1, 9);
 //считаем сумму элементов, стоящих на нечётных позициях
-Console.WriteLine(SumUnevenElement(arr));
+Console.WriteLine("сумма элементов, стоящих на нечётных позициях равна:" + SumUnevenElement(arr));
 //вывод для проверки
 Print1DArr(arr);
 SearchPair(arr);
