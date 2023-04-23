@@ -53,7 +53,7 @@ void Print2DArray(int[,] arr)
             resultString = i + 1;
         }
     }
-    Console.WriteLine("В строке "+resultString+ " сумма элеметов наименьшая");
+    Console.WriteLine("В строке " + resultString + " сумма элеметов наименьшая");
 }
 
 int row = ReadData("Введите количество строк: ");
